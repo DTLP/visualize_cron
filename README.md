@@ -22,7 +22,7 @@ Example below will result in 5 unique jobs taking 1 minute to run each day
 ```
 python3 visualize_cron.py --file cron.txt
 ```
-4. Open up the result .html file to view the graph
+4\. Open up the result .html file to view the graph
 
 ## Example
 The following input crontab
