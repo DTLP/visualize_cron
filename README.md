@@ -53,4 +53,4 @@ The following input crontab
 ```
 
 will result in a graph looking like this  
-![alt text](https://github.com/DTLP/visualize_cron/blob/main/example_graph.png?raw=true)
+![alt text](https://github.com/DTLP/visualize_cron/blob/main/example.png?raw=true)
