@@ -3,9 +3,9 @@
 Turning your crontab into a graph to help you identify any overlapping jobs and also find gaps between scheduled jobs.
 
 ## Requirements
-croniter==1.3.8
-pandas==1.5.3
-plotly==5.13.0
+croniter==1.3.8  
+pandas==1.5.3  
+plotly==5.13.0  
 
 ## How to
 1\. Add extra parameters to your cron job description lines separated by `/` :  
