@@ -1,0 +1,23 @@
+#Job A / 1 / 10
+20 9 * * 1-5 <cron job command>
+#Job A / 1 / 10
+25 11 * * 1-5 <cron job command>
+#Job A / 4 / 10
+55 13,14,16,18 * * 1-5 <cron job command>
+
+#Job B / 1 / 30
+0 8 * * * <cron job command>
+
+#Job C / 1 / 5
+10 9 * * 1-5 <cron job command>
+#Job C / 1 / 5
+25 11 * * 1-5 <cron job command>
+#Job C / 4 / 5
+55 13,14,16,18 * * 1-5 <cron job command>
+
+#Job D / 1 / 15
+10 6 * * 1-5 <cron job command>
+#Job D / 1 / 15
+25 7 * * 1-5 <cron job command>
+#Job D / 4 / 15
+52 8,9,10,12 * * 1-5 <cron job command>
